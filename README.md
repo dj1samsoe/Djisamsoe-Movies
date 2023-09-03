@@ -2,7 +2,7 @@
 Djisamsoe-Movies is a React-based movie website that allows users to search for movies by title, sort them by genre, view trending and upcoming movies, and bookmark their favorite movies. The website is designed to be user-friendly and visually appealing.
 <hr/>
 
-![background](https://github.com/dj1samsoe/Djisamsoe-Movies/blob/01d9fa3359b59ddbc66828b164d19e6397de8dc9/public/home.png)
+![background](https://github.com/dj1samsoe/Djisamsoe-Movies/blob/ee65316fb2e0057fbe18d9e60a41636027ab81de/public/home.png)
 
 <hr/>
 
